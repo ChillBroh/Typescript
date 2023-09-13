@@ -30,7 +30,7 @@ let list2: Array<number> = [1, 2, 3];
 console.log(list2);
 
 //tuple
-let tuple1: [number, String]; //declare
+let tuple1: [number, string]; //declare
 tuple1 = [10, "ishra"];
 //tuple1 = ["chill", 5]; this gives compiler error
 console.log(tuple1);
